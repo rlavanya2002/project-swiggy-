@@ -1,0 +1,75 @@
+[
+    {
+      "image": "src/Card/scty.png",
+      "discount": "30% OFF UPTO ₹75",
+      "name": "Sri Sakthi Mess",
+      "rating": "3.2",
+      "time": "40-45 mins",
+      "cuisine": "South Indian",
+      "location": "Gobichettipalayam"
+    },
+    {
+      "image": "/images/image2.jpg",
+      "discount": "FREE ITEM",
+      "name": "All Izz Well Cafe Tea Time",
+      "rating": "4.1",
+      "time": "30-35 mins",
+      "cuisine": "Italian, Pizzas",
+      "location": "Gobichettipalayam"
+    },
+    {
+      "image": "/images/image3.jpg",
+      "discount": "50% OFF UPTO ₹100",
+      "name": "Central Briyani",
+      "rating": "4.1",
+      "time": "10-15 mins",
+      "cuisine": "Biryani",
+      "location": "Gobichettipalayam"
+    },
+    {
+      "image": "/images/image4.jpg",
+      "discount": "30% OFF UPTO ₹75",
+      "name": "Chill Bite",
+      "rating": "4",
+      "time": "30-35 mins",
+      "cuisine": "Italian, Pizzas",
+      "location": "Gobichettipalayam"
+    },
+    {
+      "image": "/images/image5.jpg",
+      "discount": "",
+      "name": "Sachitha Nanthini Mess",
+      "rating": "4.5",
+      "time": "25-30 mins",
+      "cuisine": "South Indian, Chinese",
+      "location": "Gobichettipalayam"
+    },
+    {
+      "image": "/images/image6.jpg",
+      "discount": "",
+      "name": "Sri Krishna Bakes",
+      "rating": "4.2",
+      "time": "35-40 mins",
+      "cuisine": "Cafe, Juices, Beverages",
+      "location": "Gobichettipalayam"
+    },
+    {
+      "image": "/images/image7.jpg",
+      "discount": "20% OFF UPTO ₹100",
+      "name": "Pandian Mess",
+      "rating": "4.3",
+      "time": "25-30 mins",
+      "cuisine": "South Indian",
+      "location": "Gobichettipalayam"
+    },
+    {
+      "image": "/images/image8.jpg",
+      "discount": "",
+      "name": "Town Biriyani Hotel",
+      "rating": "4.2",
+      "time": "15-20 mins",
+      "cuisine": "Indian, Chinese, Snacks",
+      "location": "Gobichettipalayam"
+    }
+  ]
+  

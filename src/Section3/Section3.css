@@ -1,0 +1,159 @@
+/* .cardpage{ */
+    /* background-color: aqua; */
+    /* width: 90%;
+    margin-left: 130px;
+    margin-top: 35px;
+}
+.img{
+    background-image: url(./dosa1.jpg);
+    width: 10%;
+    height: 150px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+}
+.card1{
+    margin-left: 7px;
+    /* width: 60%; */
+    
+
+
+/* .img1{
+    background-image: url(./briyani.avif);
+    width: 80%;
+    height: 150px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.img2{
+    background-image: url(./dosa3.avif);
+    width: 20%;
+    height: 150px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.img3{
+    background-image: url(./corn.avif);
+    width: 80%;
+    height: 150px;
+    background-size: cover;
+    background-repeat: no-repeat;
+} */
+/* .card2{
+    /* margin-right: 80px; */
+  
+
+/* .rows{
+    /* background-color: aqua; */
+    /* width: 90%;
+    margin-bottom: 20px;
+   */
+ 
+/* .text{
+    
+} */
+/* .starfill{
+    color: green;
+    font-size: 15px;
+} 
+.off{
+    font-size: 15px;
+}
+.mint{
+    font-size: 15px;
+  
+}
+.body{
+    line-height:16px;
+    font-weight: 280;
+    font-size: 15px;
+   
+}
+.cafe{
+ 
+    font-weight: 280;
+    font-size: 15px;
+    display: -webkit-box;
+    overflow-wrap: break-word;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+} */
+/* .rows2{
+    width: 90%;
+    margin-top: 60px;
+} */
+/* .img4{
+    background-image: url(./cafe.avif);
+    width: 10%;
+    height: 150px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+}
+.img5{
+    background-image: url(./juice.avif);
+    width: 10%;
+    height: 150px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+} */ 
+
+/* .restaurant-card {
+    border-radius: 20px;
+    border: none;
+    position: relative;
+    
+  }
+  
+  .card-img-wrapper {
+    position: relative;
+  }
+  
+  .card-img-wrapper img {
+    border-radius: 20px 20px 0 0;
+  }
+  
+  .discount-badge {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 12px;
+  }
+  
+  .card-title {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .card-rating {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .starfill {
+    color: #ffc107;
+    margin-right: 5px;
+  }
+  
+  .rating {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  .time {
+    color: #6c757d;
+  }
+   */
+   .restaurant-container{
+  
+    width: 80%;
+    margin-left: 130px;
+   }

@@ -1,0 +1,17 @@
+
+
+ [
+    {
+        "id":1,
+        "title":"swiggy",
+        "price":100000,
+        "image":"src/Json/scty.png"
+    },
+    {
+      
+        "id":2,
+        "title":"food",
+        "price":20000,
+        "imageUrl":"/home/nschool/lavanya/swiggy/src/Json/scty.png"
+    }
+]

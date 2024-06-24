@@ -1,0 +1,124 @@
+/* .head{
+    color: blue;
+} */
+.view{
+  width: 100%;
+
+  /* z-index: 999;
+  height: 30px; */
+  background-color: #16fe50;
+
+}
+.nav{
+    height: 10px;
+  
+    background-color:rgb(11, 59, 216);
+    /* position: fixed; */
+    display: flex;
+}
+.bg-body-tertiary{
+  /* position: fixed !important;
+  background-color: #FEA116; */
+  height: 100px;
+}
+.logo{
+  margin-left: 100px;
+  width: 2.5%;
+  height: 50px;
+  border-radius: 0%;
+  background-image: url(../download.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+ 
+  
+
+}
+.corporate{
+  margin-left: 250px;
+
+ 
+  font-size: 15px;
+  
+}
+
+.icon{
+  margin-right: 10px;
+  font-weight: bolder;
+  font-size: 20px;
+  font-weight:900;
+  color: black;
+
+}
+.search{
+  margin-left: 35px;
+  color: black;
+ 
+}
+.font{
+  color: rgb(39, 10, 206);
+}
+.other{
+  margin-left: 30px;
+   border-bottom: 2px solid black;
+   /* #FEA116;; */
+   color: #FEA116;
+   margin-top: 30px;
+}
+.other:hover{
+
+   margin-left: 30px;
+   border-bottom: 2px solid #FEA116;
+   /* #FEA116;; */
+   color: #FEA116;
+   margin-top: 20px;
+   
+}
+.arow{
+  margin-left: 19px;
+  font-size:15px;
+  font-weight: bold;
+  margin-top:9px;
+  color:#FEA116 ;
+}
+ 
+
+@media screen and (max-width: 427px) {
+
+.nav{
+  height: 100px;
+}
+
+.logo{
+ margin-left: 6px;
+ width: 33px;
+}
+.location{
+  margin-left: 2px;
+}
+
+.icon{
+   margin-left: 0px;
+}
+.corporate{
+  margin-top: 20px;
+  margin-left: 20px;
+  background-color: aliceblue;
+}
+.nav-link{
+  background-color: #FEA116;
+  display: block;
+  list-style: none;
+ 
+}
+}
+@media screen and (max-width: 768px){
+  .logo{
+    margin-left: 6px;
+    width: 33px;
+   }
+   .corporate{
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: aliceblue;
+  }
+}

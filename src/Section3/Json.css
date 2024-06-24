@@ -1,0 +1,130 @@
+.restaurant-card {
+    display: flex;
+    /* flex-direction: column; */
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: box-shadow 0.3s ease-in-out;
+    
+    
+    background-color: purple;
+    margin: 1rem;
+  }
+  
+  .restaurant-card:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .restaurant-image {
+    /* width: 100%; */
+    height: auto;
+  }
+  
+  /* .discount {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    padding: 0.5rem;
+    border-radius: 4px;
+    margin: 0.5rem;
+  } */
+  
+  /* .restaurant-info {
+    padding: 1rem;
+    text-align: center;
+  }
+   */
+  .restaurant-info h3 {
+    margin: 0;
+    font-size: 1.2rem;
+  }
+  
+  .restaurant-info p {
+    margin: 0.5rem 0;
+    color: #757575;
+  }
+  .starfill{
+    color: green;
+    font-size: 15px;
+  }
+  .off{
+    font-size: 16px;
+}
+.bodyjs{
+  line-height:16px;
+  font-weight: 280;
+  font-size: 15px;
+ 
+}
+.rows{
+   /* background-color: aqua;  */
+   /* width: 90%;
+  margin-bottom: 20px; */
+}
+.card1{
+  /* margin-left: 7px; */
+  /* width: 60%; */}
+  .img{
+ 
+    width: 100%;
+    height: 130px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    background: linear-gradient(rgba(27, 30, 36, 0) 0%, rgb(27, 30, 36) 84.21%);
+}
+
+
+.discount {
+  position: absolute;
+  top: 90px;
+  left: 10px;
+ 
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 17px;
+  font-weight: 800;
+  background: linear-gradient(rgba(27, 30, 36, 0) 0%, rgb(27, 30, 36) 84.21%);
+}
+
+.restaurant-info {
+  text-align: left;
+}
+
+.imgaealign{
+/*  
+  margin-left: 30px; */
+  /* margin-right: -50px;
+  background-color: #757575; */
+  /* margin: 20px; */
+}
+.alignemntdiv{
+ 
+  /* width: 68%; */
+   margin-top: 20px; 
+  
+}
+
+
+
+
+  @media (min-width: 600px) {
+    .restaurant-card {
+      flex-direction: row;
+      max-width: 48%;
+    }
+  
+    .restaurant-info {
+ 
+      text-align: left;
+      padding: 1rem;
+    }
+  }
+  
+  @media (min-width: 900px) {
+    .restaurant-card {
+      max-width: 30%;
+    }
+  }
+  

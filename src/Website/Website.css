@@ -1,0 +1,64 @@
+/* .website{
+    background-color: rgb(242, 231, 253);
+}
+.content{
+    font-weight: 900;
+    padding: 30px;
+} */
+/* .app{
+    background-image: url(./app_store.avif);
+} */
+.download-banner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:rgb(247, 247, 253);
+    padding: 30px;
+    text-align: center;
+}
+
+
+.download-banner p {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+.download-buttons {
+    display: flex;
+    gap: 10px;
+
+    width: 90%;
+    height: 70px;
+   
+}
+.playstore{
+    width: 50%;
+   
+
+}
+.appstore{
+    width: 50%;
+
+
+}
+
+
+/* .download-buttons img {
+    width: 150px;
+}
+.app{
+    background-image: url(./app_store.avif);
+    width: 30%;
+    height: 50px;
+} */
+
+@media (min-width: 600px) {
+    .download-banner {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .download-banner p {
+        margin-right: 20px;
+        margin-bottom: 0;
+    }
+}

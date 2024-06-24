@@ -1,0 +1,35 @@
+.line{
+    border-top:2px solid rgb(221, 218, 218);
+    width: 80%;
+    margin-left: 100px;
+}
+.containers {
+    text-align: center;
+    margin: 70px;
+}
+
+.button-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 50px;
+    justify-items: center;
+}
+
+.city-button2 {
+    margin-top:10px ;
+    padding: 10px 70px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 9px;
+    background-color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.city-button:hover {
+    background-color: #f0f0f0;
+}
+
+.show-more {
+    font-weight: bold;
+}

@@ -1,0 +1,180 @@
+/* .main{
+    background-color: antiquewhite;
+} */
+.head{
+   margin-right: 600px;
+   margin-top:35px;
+  
+}
+.button{
+    margin-top: 25px;
+  
+    background-color:white;
+    width: 89%;
+    height: 40px;
+}
+.part{
+    background-color:white;
+    width: 100%;
+    height: 40px;
+    margin-left: 140px;
+}
+ .filter{
+    background-color:white;
+    width: 8%;
+    height: 40px;
+ }
+.round{
+    /* margin-right:600px ; */
+    
+    width: 75%;
+    height: 35px;
+    background-color: rgb(252, 253, 253);
+    border:1px solid rgb(221, 220, 220);
+    border-radius: 25px 25px 25px 25px;
+    font-size: 14px;
+   
+}
+.sort{
+    width: 7%;
+    height: 40px;
+    background-color: white;
+    margin-left: 100px;
+    margin-top: -40px;
+}
+ .round1{
+     /* margin-top: -35px; */
+     /* margin-left: 250px;  */
+     width: 100%;
+    
+    height: 38px; 
+    background-color: rgb(252, 253, 253);
+    border:1px solid rgb(209, 208, 208);
+    border-radius: 25px 25px 25px 25px;
+   font-size: 14px;
+   
+  
+  
+} 
+.round2{
+    /* margin-top: -39px;
+   margin-right: 548px; */
+    width: 20%;
+    height: 35px;  
+   background-color: rgb(252, 253, 253);
+   border:1px solid rgb(209, 208, 208);
+   border-radius: 25px 25px 25px 25px;
+  font-size: 14px; 
+ 
+ 
+} 
+.fast{
+    width: 9%;
+    height: 40px;
+    background-color: white;
+    margin-left: 195px;
+    margin-top: -40px;
+}
+.round3{
+    /* margin-top: -39px;
+   margin-right: 548px; */
+    width: 90%;
+    height: 35px;  
+   background-color: rgb(252, 253, 253);
+   border:1px solid rgb(209, 208, 208);
+   border-radius: 25px 25px 25px 25px;
+  font-size: 14px; 
+ 
+ 
+} 
+.rating{
+    width: 9%;
+    height: 40px;
+    background-color: white;
+    margin-left: 315px;
+    margin-top: -40px;
+}
+.round4,.round5{
+   
+    width: 100%;
+   
+   height: 38px; 
+   background-color: rgb(252, 253, 253);
+   border:1px solid rgb(209, 208, 208);
+   border-radius: 25px 25px 25px 25px;
+  font-size: 14px;
+  
+ 
+}
+.rate{
+    width: 9%;
+    height: 40px;
+    background-color: white;
+    margin-left: 435px;
+    margin-top: -40px;  
+ 
+}
+.veg{
+    width: 8%;
+    height: 40px;
+    background-color: white;
+    margin-left: 555px;
+    margin-top: -40px;
+}
+.offer{
+    width: 6%;
+    height: 40px;
+    background-color:white;
+    margin-left: 666px;
+    margin-top: -40px;
+}
+.price{
+    width: 9%;
+    height: 40px;
+    background-color: white;
+    margin-left: 755px;
+    margin-top: -40px;
+}
+.less{
+    width: 10%;
+    height: 40px;
+    background-color: white;
+    margin-left: 880px;
+    margin-top: -40px;
+}
+
+
+
+
+
+/* src/components/FilterBar.css */
+.filter-bar {
+    justify-content: center; /* Center the buttons horizontally */
+  }
+  
+  .filter-bar .btn {
+    border-radius: 20px; /* Make the buttons slightly rounded */
+    padding: 10px 15px; /* Add some padding for a better look */
+  }
+  
+  .filter-bar .btn:hover {
+    background-color: #e9ecef; /* Change background color on hover */
+  }
+  
+  .filter-bar .dropdown-menu {
+    min-width: 10rem; /* Set a minimum width for the dropdown */
+  }
+  
+  .filter-bar .dropdown-item {
+    cursor: pointer; /* Change cursor on hover */
+  }
+  @media screen and (max-width: 427px) {
+    .containermy{
+        margin-top: 380px;
+    }
+  }
+  /* @media screen and (max-width: 768px){
+    .containermy{
+        margin-top: 30px;
+    }
+  } */

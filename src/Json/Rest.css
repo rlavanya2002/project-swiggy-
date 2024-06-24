@@ -1,0 +1,62 @@
+.restaurant-card {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: box-shadow 0.3s ease-in-out;
+    max-width: 100%;
+    margin: 1rem;
+  }
+  
+  .restaurant-card:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .restaurant-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .discount {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    padding: 0.5rem;
+    border-radius: 4px;
+    margin: 0.5rem;
+  }
+  
+  .restaurant-info {
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  .restaurant-info h3 {
+    margin: 0;
+    font-size: 1.2rem;
+  }
+  
+  .restaurant-info p {
+    margin: 0.5rem 0;
+    color: #757575;
+  }
+  
+  @media (min-width: 600px) {
+    .restaurant-card {
+      flex-direction: row;
+      max-width: 48%;
+    }
+  
+    .restaurant-info {
+      text-align: left;
+      padding: 1rem;
+    }
+  }
+  
+  @media (min-width: 900px) {
+    .restaurant-card {
+      max-width: 30%;
+    }
+  }
+  
